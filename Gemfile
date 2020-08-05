@@ -10,5 +10,5 @@ gem 'bump', require: false
 gem 'rake'
 gem 'rspec'
 gem 'rubocop', github: 'rubocop-hq/rubocop'
-gem 'rubocop-rspec', '~> 1.29.0'
+gem 'rubocop-rspec', '~> 1.42.0'
 gem 'yard', '~> 0.9'
